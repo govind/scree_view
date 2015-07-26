@@ -1,0 +1,29 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   README.md
+#	new file:   css/imgslider.css
+#	new file:   distr/1.1/imgslider-1.1-min.js
+#	new file:   distr/1.1/imgslider.css
+#	new file:   distr/1.2.1/imgslider-1.2.1-min.css
+#	new file:   distr/1.2.1/imgslider-1.2.1-min.js
+#	new file:   img/DCD_after.jpg
+#	new file:   img/DCD_before.jpg
+#	new file:   img/Galaxy_after.jpg
+#	new file:   img/Galaxy_before.jpg
+#	new file:   img/Lazada_after.JPG
+#	new file:   img/Lazada_before.JPG
+#	new file:   img/after.jpg
+#	new file:   img/before.jpg
+#	new file:   img/mobile_after.JPG
+#	new file:   img/mobile_before.JPG
+#	new file:   imgSlider.jquery.json
+#	new file:   index.html
+#	new file:   js/imgslider.js
+#
+
